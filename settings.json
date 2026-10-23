@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Leviblx-Pcvc.aternos".me:63121
+    "ip": "Leviblx-Pcvc.aternos".me:
+    
     "port": 63121,
   
     "version": "1.21.1"
